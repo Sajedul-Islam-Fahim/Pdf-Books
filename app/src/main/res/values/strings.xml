@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pdf Files</string>
+    <string-array name="books">
+        <item>Android Development</item>
+        <item>C Programming</item>
+        <item>Comipler Design</item>
+        <item>Java</item>
+        <item>Microeconomics</item>
+    </string-array>
+</resources>
